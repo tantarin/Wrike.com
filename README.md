@@ -1,6 +1,6 @@
 # Wrike.com  
 
-Tests for web page Wrike.com  
+Test for web page Wrike.com  
 
 Неободимо установить Maven и Firefox  
 
